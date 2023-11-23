@@ -13,7 +13,7 @@ For the course Big Data Analytics I worked on 4 different Kaggle competitions wi
 [Competition 1: Personality profiling of Youtube vloggers](https://www.kaggle.com/code/bartverplanke/competition-1-round-2-group-15)
 In this competition we tested different models that predict vloggers personality (Big Five) based on their video transcripts, audiovisual features, and gender. Our final model landed us in the top 5 of the competition. 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Competition 4 best models](https://github.com/[bartojverplanke]/[resume]/blob/[main]/comp4.png?raw=true)
 
 [Competition 2: Recognizing physical activity](https://www.kaggle.com/code/bartverplanke/sensor-group-6)
 In this competition our group had to recognize certain types of physical activity from gyroscopic and accelerator data. We extracted features from this data and tried different models to improve recognition. Our final model (LDA) had an accuracy of 86% on the test set.
