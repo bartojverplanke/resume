@@ -2,7 +2,7 @@
 ## Bart Verplanke
 
 ## Background
-I'm currently studying the master Behavioural Data Science at the University of Amsterdam. Before I did the bachelor Beta-Gamma, an interdisciplinairy bachelor where I focused on psychology, statistics and programming. 
+I'm currently studying the master Behavioural Data Science at the University of Amsterdam. Before I did the bachelor Beta-Gamma, an interdisciplinairy bachelor where I focused on psychology, statistics and programming. Besides my studies I teached first year students the fundamentals of Python, I co-hosted a science radio podcast called Radio Swammerdam, and did some volunteering within and outside of the University.
 
 ## Projects
 ### Big Data Analytics Course
